@@ -7,4 +7,5 @@ deployment:
  - /bin/cp about.html $DEPLOYPATH
  - /bin/cp meinbot.html $DEPLOYPATH
  - /bin/cp ultraviolet.html $DEPLOYPATH
+ - /bin/cp downloads.html $DEPLOYPATH
  - /bin/cp -R _next $DEPLOYPATH
