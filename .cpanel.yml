@@ -8,4 +8,4 @@ deployment:
  - /bin/cp meinbot.html $DEPLOYPATH
  - /bin/cp ultraviolet.html $DEPLOYPATH
  - /bin/cp downloads.html $DEPLOYPATH
- - /bin/cp -R _next $DEPLOYPATH
+ - /bin/cp -r _next $DEPLOYPATH
